@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Fluid Motion Network",
+  "description": "Global action sports broadcast & atmospheric telemetry system covering ocean swell & high alpine storm events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
